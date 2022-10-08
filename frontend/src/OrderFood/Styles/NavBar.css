@@ -1,0 +1,25 @@
+#navbar{
+    height:70px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: xx-large;
+    padding: 0 2rem 0 2rem;
+    border-radius: 5px;
+}
+
+#navbar a{
+    text-decoration: none;
+    color: white;
+}
+#navbar p{
+    color: white;
+    margin-top: 8px;
+}
+
+.navQuantity{
+    
+    font-size: 26px;
+    font-weight: 700;
+}

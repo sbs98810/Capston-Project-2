@@ -1,0 +1,36 @@
+#outerContainer{
+display: inline-block;
+}
+
+#container{
+width: 230px;
+height: 250px;
+background-color: beige;
+border-radius: 10px;
+margin-right: 20px;
+margin-top: 20px;
+}
+
+#container > p{
+margin-top: 4px;
+text-align: center;
+}
+
+#innerContainer{
+margin-left: 4px;
+margin-top: 12px;
+width: 200px;
+height: 200px;
+background-color: rgb(165, 82, 82);
+border-radius: 50%;
+}
+
+#innerContainer > img{
+width: 150px;
+margin-left: 25px;
+margin-top: 25px;
+}
+
+#container:hover{
+    cursor: pointer;
+}

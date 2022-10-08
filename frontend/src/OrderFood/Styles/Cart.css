@@ -1,0 +1,20 @@
+#cartItems{
+    margin: 20px 50px 0px 50px;
+    padding: 20px;
+}
+.container > h2:first-of-type{
+    margin-top: 20px;
+}
+#card{
+    border: 1px solid grey;
+}
+#innerCard{
+    margin: 20px;
+}
+#imgContainer{
+    background-color: lightgray;
+}
+#image{
+    margin-left: 30px;
+    margin-top: 8px;
+}
